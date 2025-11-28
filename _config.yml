@@ -18,19 +18,6 @@ url: "https://cedric-mc.github.io/bibliotheque-numerique"  # URL de votre site G
 
 theme: minima
 
-navigation:
-
-* name: Accueil
-  link: /README.md
-* name: Installation
-  link: /README.md#installation
-* name: Fonctionnalités
-  link: /README.md#fonctionnalités-principales
-* name: Exemples
-  link: /README.md#exemples-dutilisation
-
-# Activer les plugins GitHub Pages
-
 plugins:
 
 * jekyll-feed

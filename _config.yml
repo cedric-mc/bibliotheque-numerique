@@ -18,22 +18,6 @@ url: "https://cedric-mc.github.io/bibliotheque-numerique"  # URL de votre site G
 
 theme: minima
 
-# Configuration du Markdown
-
-markdown: kramdown
-
-ekstensions:
-
-* .md
-
-# Affichage du README comme page d'accueil
-
-include:
-
-* README.md
-
-# Paramètres de navigation (optionnel)
-
 navigation:
 
 * name: Accueil

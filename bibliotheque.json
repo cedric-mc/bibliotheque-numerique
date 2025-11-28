@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "titre": "Harry Potter à l'école des Sorciers",
+        "auteur": "J.K. Rowling",
+        "genre": "Fantasy",
+        "année_publication": 1997,
+        "prix": 19.99,
+        "disponible": true,
+        "notes": [
+            5,
+            1
+        ]
+    },
+    {
+        "id": 2,
+        "titre": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+        "auteur": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "année_publication": 1954,
+        "prix": 22.5,
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "genre": "Dystopie",
+        "année_publication": 1949,
+        "prix": 14.99,
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "genre": "Conte philosophique",
+        "année_publication": 1943,
+        "prix": 9.9,
+        "disponible": true
+    },
+    {
+        "id": 5,
+        "titre": "Da Vinci Code",
+        "auteur": "Dan Brown",
+        "genre": "Thriller",
+        "année_publication": 2003,
+        "prix": 18.0,
+        "disponible": true
+    },
+    {
+        "id": 6,
+        "titre": "Les Misérables",
+        "auteur": "Victor Hugo",
+        "genre": "Classique",
+        "année_publication": 1862,
+        "prix": 16.5,
+        "disponible": true
+    },
+    {
+        "id": 7,
+        "titre": "Fahrenheit 451",
+        "auteur": "Ray Bradbury",
+        "genre": "Science-fiction",
+        "année_publication": 1953,
+        "prix": 12.99,
+        "disponible": true
+    },
+    {
+        "id": 8,
+        "titre": "L'Alchimiste",
+        "auteur": "Paulo Coelho",
+        "genre": "Développement personnel",
+        "année_publication": 1988,
+        "prix": 11.8,
+        "disponible": true
+    },
+    {
+        "id": 9,
+        "titre": "Dune",
+        "auteur": "Frank Herbert",
+        "genre": "Science-fiction",
+        "année_publication": 1965,
+        "prix": 21.0,
+        "disponible": true,
+        "notes": [
+            1
+        ]
+    },
+    {
+        "id": 10,
+        "titre": "Le Nom du Vent",
+        "auteur": "Patrick Rothfuss",
+        "genre": "Fantasy",
+        "année_publication": 2007,
+        "prix": 17.99,
+        "disponible": true
+    },
+    {
+        "id": 11,
+        "titre": "Sapiens : Une brève histoire de l'humanité",
+        "auteur": "Yuval Noah Harari",
+        "genre": "Essai",
+        "année_publication": 2011,
+        "prix": 24.0,
+        "disponible": true
+    },
+    {
+        "id": 12,
+        "titre": "Shining",
+        "auteur": "Stephen King",
+        "genre": "Horreur",
+        "année_publication": 1977,
+        "prix": 15.5,
+        "disponible": false
+    },
+    {
+        "id": 13,
+        "titre": "La Vérité sur l'Affaire Harry Quebert",
+        "auteur": "Joël Dicker",
+        "genre": "Polar",
+        "année_publication": 2012,
+        "prix": 20.9,
+        "disponible": true
+    },
+    {
+        "id": 14,
+        "titre": "L'Étranger",
+        "auteur": "Albert Camus",
+        "genre": "Philosophie",
+        "année_publication": 1942,
+        "prix": 8.5,
+        "disponible": true
+    },
+    {
+        "id": 15,
+        "titre": "Ready Player One",
+        "auteur": "Ernest Cline",
+        "genre": "Science-fiction",
+        "année_publication": 2011,
+        "prix": 13.75,
+        "disponible": true
+    }
+]

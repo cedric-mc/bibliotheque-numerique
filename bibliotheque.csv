@@ -1,0 +1,17 @@
+id,titre,auteur,genre,année_publication,prix,disponible
+1,Harry Potter à l'école des Sorciers,J.K. Rowling,Fantasy,1997,19.99,True
+2,Le Seigneur des Anneaux : La Communauté de l'Anneau,J.R.R. Tolkien,Fantasy,1954,22.5,True
+3,1984,George Orwell,Dystopie,1949,14.99,False
+4,Le Petit Prince,Antoine de Saint-Exupéry,Conte philosophique,1943,9.9,True
+5,Da Vinci Code,Dan Brown,Thriller,2003,18.0,True
+6,Les Misérables,Victor Hugo,Classique,1862,16.5,False
+7,Fahrenheit 451,Ray Bradbury,Science-fiction,1953,12.99,True
+8,L'Alchimiste,Paulo Coelho,Développement personnel,1988,11.8,True
+9,Dune,Frank Herbert,Science-fiction,1965,21.0,False
+10,Le Nom du Vent,Patrick Rothfuss,Fantasy,2007,17.99,True
+11,Sapiens : Une brève histoire de l'humanité,Yuval Noah Harari,Essai,2011,24.0,True
+12,Shining,Stephen King,Horreur,1977,15.5,False
+13,La Vérité sur l'Affaire Harry Quebert,Joël Dicker,Polar,2012,20.9,True
+14,L'Étranger,Albert Camus,Philosophie,1942,8.5,True
+15,Ready Player One,Ernest Cline,Science-fiction,2011,13.75,True
+16,Harry Potter et la coupe de feu,J.K Rowling,Science fiction,2000,49.5,True

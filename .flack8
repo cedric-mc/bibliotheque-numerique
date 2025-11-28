@@ -1,0 +1,8 @@
+[flake8]
+max-line-length = 100
+ignore = 
+    E203  # slices spacing - compatible avec black si tu l'ajoutes
+    W503  # line break before binary operator
+exclude =
+    .git
+    __pycache__

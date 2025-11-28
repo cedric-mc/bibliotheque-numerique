@@ -1,17 +1,9 @@
-# Configuration GitHub Pages pour le README
-
-destination: github
-
-# Nom du site affiché sur GitHub Pages
-
-title: Bibliothèque Numérique
-
-description: "Gestion complète d'une bibliothèque numérique avec Python et interface terminal interactive."
-
-# Paramètres de base
-
-author: "Cédric MARIYA CONSTANTINE"
-baseurl: ""  # Laisser vide si déployé à la racine du dépôt
-url: "https://cedric-mc.github.io/bibliotheque-numerique"  # URL de votre site GitHub Pages
-
-theme: minima
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+title: 📚 Bibliothèque Numérique
+show_downloads: true
+description: Gestion complète d'une bibliothèque numérique avec Python et interface terminal interactive.

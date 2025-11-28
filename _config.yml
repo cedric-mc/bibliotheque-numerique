@@ -14,11 +14,4 @@ author: "Cédric MARIYA CONSTANTINE"
 baseurl: ""  # Laisser vide si déployé à la racine du dépôt
 url: "https://cedric-mc.github.io/bibliotheque-numerique"  # URL de votre site GitHub Pages
 
-# Thème Jekyll (par défaut, GitHub Pages supporte minimal, cayman, etc.)
-
 theme: minima
-
-plugins:
-
-* jekyll-feed
-* jekyll-seo-tag

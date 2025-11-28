@@ -1,0 +1,53 @@
+# Configuration GitHub Pages pour le README
+
+destination: github
+
+# Nom du site affiché sur GitHub Pages
+
+title: Bibliothèque Numérique
+
+description: "Gestion complète d'une bibliothèque numérique avec Python et interface terminal interactive."
+
+# Paramètres de base
+
+author: "Cédric MARIYA CONSTANTINE"
+baseurl: ""  # Laisser vide si déployé à la racine du dépôt
+url: "https://cedric-mc.github.io/bibliotheque-numerique"  # URL de votre site GitHub Pages
+
+# Thème Jekyll (par défaut, GitHub Pages supporte minimal, cayman, etc.)
+
+theme: minima
+
+# Configuration du Markdown
+
+markdown: kramdown
+
+ekstensions:
+
+* .md
+
+# Affichage du README comme page d'accueil
+
+include:
+
+* README.md
+
+# Paramètres de navigation (optionnel)
+
+navigation:
+
+* name: Accueil
+  link: /README.md
+* name: Installation
+  link: /README.md#installation
+* name: Fonctionnalités
+  link: /README.md#fonctionnalités-principales
+* name: Exemples
+  link: /README.md#exemples-dutilisation
+
+# Activer les plugins GitHub Pages
+
+plugins:
+
+* jekyll-feed
+* jekyll-seo-tag
